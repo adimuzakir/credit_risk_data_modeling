@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk menganalisis risiko kredit bagi pelanggan yang mengaj
 - Menggunakan model terbaik untuk memprediksi risiko kredit pada data pelanggan baru.
 - Menyimpan hasil prediksi dalam file CSV untuk analisis lebih lanjut oleh bank.
 ## Hasil dan Temuan
-- Model Terbaik: SVM dengan akurasi 81% dan presisi 82%.
+- **Model Terbaik**: SVM dengan akurasi 81% dan presisi 82%.
 - **Faktor-Faktor yang Mempengaruhi Risiko Kredit**: Atribut yang paling signifikan adalah usia, tingkat pendidikan, dan rasio utang terhadap pendapatan.
 - **Distribusi Pelanggan**: Analisis menunjukkan bahwa sebagian besar pelanggan yang gagal bayar berada dalam rentang usia 20-35 tahun dengan tingkat pendidikan rendah.
 - **Prediksi untuk Pelanggan Baru**: Dari 150 pelanggan baru yang mengajukan kartu kredit, 127 diterima, dan 23 ditolak berdasarkan prediksi model SVM.
